@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cardview</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">menu 2</string>
+    <string name="open">Abrir</string>
+    <string name="close">Fechar</string>
+</resources>
